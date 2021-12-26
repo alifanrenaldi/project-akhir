@@ -3,9 +3,9 @@ Alifan Renaldi_2017051044
 Joy Hans Christabel Sinaga_2017051050
 Muhammad Zulfikar_2017051052
 
-Muhammad Zulfikar(database)
-Joy Hans Christabel(controller)
-Alifan Renaldi(implmentasi class diagram)
+-Muhammad Zulfikar(database)
+-Joy Hans Christabel(controller)
+-Alifan Renaldi(implmentasi class diagram)
 
 SISTEM KOPERASI SIMPAN PINJAM (UPDATE  3)
 (JAVA CLASS)
